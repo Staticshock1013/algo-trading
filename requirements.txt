@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+torch
+transformers
+yfinance
+boto3
+python-dotenv
+pyarrow
+jupyter
